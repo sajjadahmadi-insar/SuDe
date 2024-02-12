@@ -1,5 +1,6 @@
 function varargout=disloc(varargin)
 % Rectangular Dislocation
+% François Beauducel, IPGP
 if nargin < 9
 	error('Not enough input arguments.')
 end
